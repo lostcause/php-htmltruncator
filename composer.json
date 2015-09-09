@@ -1,5 +1,5 @@
 {
-  "name": "judev/php-htmltruncator",
+  "name": "lostcause/php-htmltruncator",
   "description": "HTML Truncation library, ported from the html_truncator rubygem",
   "version": "1.0.6",
   "type": "library",
