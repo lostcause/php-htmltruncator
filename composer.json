@@ -6,6 +6,7 @@
   "keywords": ["PHP", "HTML"],
   "homepage": "https://github.com/judev/php-htmltruncator",
   "license": "MIT",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Jude Venn",
